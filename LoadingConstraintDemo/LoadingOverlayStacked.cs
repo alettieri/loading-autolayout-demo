@@ -16,9 +16,6 @@ namespace LoadingConstraintDemo {
 		int SpinnerWidth = 20;
 		int SpinnerHeight = 20;
 
-		int LabelMinWidth = 80;
-		int LabelHeight = 22;
-
 		// Will control the margin between the label and spinner
 		int margin = 5;
 
@@ -89,8 +86,6 @@ namespace LoadingConstraintDemo {
 			var viewMetrics = new Object[] { 
 				"label", LoadingLabel,
 				"spinner", ActivitySpinner,
-				"labelWidth", LabelMinWidth,
-				"labelHeight", LabelHeight,
 				"spinnerHeight", SpinnerHeight,
 				"spinnerWidth", SpinnerWidth,
 				"margin", margin
@@ -154,8 +149,6 @@ namespace LoadingConstraintDemo {
 			var viewMetrics = new Object[] { 
 				"label", LoadingLabel,
 				"spinner", ActivitySpinner,
-				"labelWidth", LabelMinWidth,
-				"labelHeight", LabelHeight,
 				"spinnerHeight", SpinnerHeight,
 				"spinnerWidth", SpinnerWidth,
 				"margin", margin

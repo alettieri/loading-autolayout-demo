@@ -1,1 +1,17 @@
-﻿<Properties StartupItem="LoadingConstraintDemo/LoadingConstraintDemo.csproj" />
+﻿<Properties StartupItem="LoadingConstraintDemo/LoadingConstraintDemo.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5s.8.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoadingConstraintDemo/AppDelegate.cs">
+    <Files>
+      <File FileName="LoadingConstraintDemo/AppDelegate.cs" Line="56" Column="56" />
+      <File FileName="LoadingConstraintDemo/LoadingOverlaySideBySide.cs" Line="6" Column="6" />
+      <File FileName="LoadingConstraintDemo/LoadingOverlayStacked.cs" Line="3" Column="3" />
+      <File FileName="LoadingConstraintDemo/MainViewController.cs" Line="4" Column="4" />
+      <File FileName="LoadingConstraintDemo/Main.cs" Line="51" Column="51" />
+      <File FileName="LoadingConstraintDemo/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
